@@ -2,6 +2,8 @@
 
 **English** · [中文](#中文)
 
+**Download page / 下载页面: https://sheng0716.github.io/million-cloud-releases/**
+
 Android test builds of the Million Cloud mobile app. The app is read-only: it shows your company's reports and
 dashboard, and can't change any data. It connects to the live Million Cloud server, so sign in with your normal
 Million Cloud account.
