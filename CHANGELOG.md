@@ -6,6 +6,51 @@ Every Million Cloud test build, newest first. The latest APK is on the
 Million Cloud 每个测试版本的更新内容，最新的在最上面。最新的 APK 在
 [Releases 页面](https://github.com/sheng0716/million-cloud-releases/releases/latest)下载。
 
+## v1.2.0 (2026-11-27)
+
+### English
+
+Installs over v1.1.0, so you don't need to uninstall first.
+
+**New**
+- **A new look** that matches the web: the Million Cloud red, new fonts, cards and buttons, and a login page like
+  the web's. Overdue amounts now sit in their own tinted card and are always labelled. No figures changed.
+- **Customize the Dashboard**: the new button at the top of the Dashboard tab lets you hide cards you don't need
+  and drag the rest into the order you like. Net position and the overdue strip always stay at the top. Reset
+  asks before it discards your layout.
+- **Switch company by tapping its name** at the top of the screen.
+- **Report table headers stay in view** while you scroll, so you always know which column a figure belongs to.
+- **The company list** now names each company as the web's Company List does, and shows its company ID.
+- Signing out is instant, and screens fade into each other.
+
+**Fixed**
+- Customer and Supplier Aging: an advance payment or unapplied credit now shows in its aging bucket, so the
+  buckets add up to the total. Empty buckets show a dash instead of 0.00.
+- The shared aging PDF no longer prints the Total column twice.
+- The month picker on the Sales tab now fits on tablets and in landscape.
+- Dragging a Dashboard card no longer lets it slip outside the list.
+
+### 中文
+
+可以直接覆盖安装在 v1.1.0 上，不用先卸载。
+
+**新功能**
+- **全新外观**，和网页版一致：Million Cloud 红色、新字体、新的卡片和按钮，登录页面也和网页版一样。逾期金额现在放在单独的
+  浅色卡片里，并且一定会标明。所有数字都没有改变。
+- **自定义 Dashboard**：Dashboard tab 顶部新增的按钮可以隐藏不需要的卡片，并拖动其余卡片调整顺序。净头寸（Net Position）
+  和逾期提示条始终固定在最上面。重置之前会先确认，避免误删你的布局。
+- **点屏幕顶部的公司名就能切换公司**。
+- **报表的表头在滚动时会固定在顶部**，随时知道每个数字属于哪一栏。
+- **公司列表**现在按网页版 Company List 的方式显示公司名称，并显示公司 ID。
+- 登出会立即完成，画面之间改为淡入淡出切换。
+
+**修复**
+- Customer Aging 和 Supplier Aging：预付款和未核销的贷项现在会显示在对应的账龄栏里，各栏加起来等于总额。空的账龄栏显示
+  横线，不再显示 0.00。
+- 分享的账龄 PDF 不会再把 Total 栏印两次。
+- Sales tab 的月份选择器在平板和横屏时不会再超出范围。
+- 拖动 Dashboard 卡片时不会再拖出列表之外。
+
 ## v1.1.0 (2026-11-18)
 
 ### English
